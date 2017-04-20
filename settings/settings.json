@@ -1,0 +1,9 @@
+{
+  "db": {
+    "url":"mongodb://localhost:27017/bot-db"
+  },
+  "security":{
+    "salt":"123456"
+  },
+  "port":"3000"
+}
